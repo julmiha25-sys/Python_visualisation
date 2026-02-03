@@ -151,4 +151,6 @@ DR_Dat		revenue	revenue_rolling	revenue_shift	revenue_shifted	revenue_pct_change
 
 Анализ продаж продуктов в разрезе регионов
 
+**_Примерный результат выполенения:_**
+
 <img width="600" height="496" alt="image" src="https://github.com/user-attachments/assets/ce382466-c838-4b4c-aeea-b2d480db7769" />
