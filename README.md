@@ -154,3 +154,36 @@ DR_Dat		revenue	revenue_rolling	revenue_shift	revenue_shifted	revenue_pct_change
 **_Примерный результат выполенения:_**
 
 <img width="600" height="496" alt="image" src="https://github.com/user-attachments/assets/ce382466-c838-4b4c-aeea-b2d480db7769" />
+
+*******************************************************************************************************************************************************************************************************
+
+⭕**Статистика образовательной платформы**
+
+1. Распределение дневного количества попыток по дням и связь со средним.
+
+<img width="794" height="499" alt="image" src="https://github.com/user-attachments/assets/38a0fdcd-efd1-4247-a37f-1e083399245e" />
+
+2.Дневное количество попыток за весь период с разбивкой по языкам программирования.
+
+<img width="854" height="552" alt="image" src="https://github.com/user-attachments/assets/3e59dab7-31f2-46a1-905c-b6e2361211c1" />
+
+3.Распределение дневного количества попыток по месяцам и языкам.
+
+<img width="738" height="470" alt="image" src="https://github.com/user-attachments/assets/91ec2936-0590-474b-bced-0a58430fb82f" />
+
+4.Дата регистрации пользователей и количество решаемых уникальных задач.
+
+<img width="703" height="455" alt="image" src="https://github.com/user-attachments/assets/27400ea0-5bc2-4eac-b731-3852de6d61ce" />
+
+5.Корреляция между средним количеством попыток, которые делает пользователь при решении одной задачи, максимальным и минимальным количеством попыток.
+
+<img width="758" height="435" alt="image" src="https://github.com/user-attachments/assets/978ae6a9-03d6-4e34-8b02-e28700c318d0" />
+
+6.N-day retension с разбивкой по когортам до 30-го дня. Когорта - год-месяц решения первой задачи каждым пользователем.
+
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/857dd33c-a2c6-4457-a131-73038bf58253" />
+
+7.Распределение количества уникальных пользователей, сгруппированное по датам совершения попытки, в разрезе языков.
+
+<img width="876" height="455" alt="image" src="https://github.com/user-attachments/assets/396cca00-ecd8-4aed-bea3-553dd8339f2b" />
+
